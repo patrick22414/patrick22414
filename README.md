@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### I'm currently working on ...
 
-I'm currently working at Novauto Inc, Beijing as an intern. I'm doing [Neural Architecture Search](https://en.wikipedia.org/wiki/Neural_architecture_search)-related projects, and I also help adding bits and pieces to the open-source NAS framework [aw_nas](https://github.com/walkerning/aw_nas).
+I'm currently working at Novauto Inc, Beijing as an intern. I'm doing [neural architecture search](https://en.wikipedia.org/wiki/Neural_architecture_search)-related projects, and I also help adding bits and pieces to the open-source NAS framework [aw_nas](https://github.com/walkerning/aw_nas).
 
 ### I'm currently learning ...
 
@@ -38,7 +38,7 @@ Side projects that have been abandoned (but I might pick them up, might):
 
 - Text detection and information extraction on ICDAR 2019 ([codebase](https://github.com/zzzDavid/ICDAR-2019-SROIE)) (the repo is surprisingly popular, I donno why)
 - My bachelor's thesis is about computer vision on a drone ([codebase](https://github.com/patrick22414/drone-projects))
-- A Computer Vision library with OpenCV but it's close-source
+- A computer vision library with OpenCV but it's close-source
 
 ### How to reach me ...
 
