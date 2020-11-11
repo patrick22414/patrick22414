@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi, name's Patrick
 <!--
 **patrick22414/patrick22414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,13 +34,9 @@ Side projects:
 
 - [**Vue**](https://vuejs.org/). Because I feel it's the only JavaScript-related stuff with some sanity left (yes, I predominantly code in Python).
 
-- R, the language for statistical computing and graphics. Data is fun.
-
 Side projects that have been abandoned (but I might pick them up, might):
 
 - [wows-view](https://github.com/patrick22414/wows-view) is a data-viewing website for the game World of Worships, written in Vue, hosted on Vercel
-
-- The Scheme programming language. `((()))`
 
 ### I have worked on ...
 
@@ -50,8 +45,6 @@ Side projects that have been abandoned (but I might pick them up, might):
 - My bachelor's thesis is about computer vision on a drone ([codebase](https://github.com/patrick22414/drone-projects))
 
 - A Computer Vision library with OpenCV but it's close-source
-
-- MATLAB stuff because I used to be an EE student
 
 ### How to reach me ...
 
