@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I now have a [personal blog site](https://patrick22414.substack.com/), currently in **BETA**.
+
 ### I'm currently working on ...
 
 I'm currently working at Novauto Inc, Beijing as an intern. I'm doing [neural architecture search](https://en.wikipedia.org/wiki/Neural_architecture_search)-related projects, and I also help adding bits and pieces to the open-source NAS framework [aw_nas](https://github.com/walkerning/aw_nas).
