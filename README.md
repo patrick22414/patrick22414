@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I now have a [personal blog site](https://patrick22414.substack.com/), currently in **BETA**.
+I now have a [personal blog site](https://patrick22414.substack.com/), currently in **BETA** cuz I'm too lazy.
 
 ### I'm currently working on ...
 
@@ -44,6 +44,6 @@ Side projects that have been abandoned (but I might pick them up, might):
 
 ### How to reach me ...
 
-Email: patrick22414@outlook.com
+Email: songyi.yang@kcl.ac.uk
 
 Telegram: @patrick22414
