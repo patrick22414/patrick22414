@@ -32,7 +32,7 @@ My interests are in (multi-agent) **reinforcement learning and games**. I want m
 
 - **Neural architecture search** and **object detection** during my internship at Novauto Inc, Beijing.
 
-- Open-source neural architecture search framework [aw_nas](https://github.com/walkerning/aw_nas).
+- Open-source neural architecture search framework `aw_nas` ([repo](https://github.com/walkerning/aw_nas)).
 
 - **Object detection** on drones during my internship at Zerotech Inc, Beijing.
 
