@@ -1,4 +1,4 @@
-# Hi, name's Patrick / Songyi
+# Hi, name's Patrick / Songyi 🦩
 <!--
 **patrick22414/patrick22414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
