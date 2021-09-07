@@ -1,4 +1,4 @@
-## Hi, name's Patrick
+# Hi, name's Patrick / Songyi
 <!--
 **patrick22414/patrick22414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,36 +14,40 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I now have a [personal blog site](https://patrick22414.substack.com/), currently in **BETA** cuz I'm too lazy.
+<!-- I now have a [personal blog site](https://patrick22414.substack.com/), currently in **BETA** cuz I'm too lazy. -->
 
-### I'm currently working on ...
+## I'm looking for a PhD position in Reinforcement Learning!
 
-I'm currently working at Novauto Inc, Beijing as an intern. I'm doing [neural architecture search](https://en.wikipedia.org/wiki/Neural_architecture_search)-related projects, and I also help adding bits and pieces to the open-source NAS framework [aw_nas](https://github.com/walkerning/aw_nas).
+(Autumn 2022. UK-based preferred but not necessary)
 
-### I'm currently learning ...
+My interests are in (multi-agent) **reinforcement learning and games**. I want my PhD subject to be a continuation of my MSc dissertation (see below), as I have really enjoyed working on reinforcement learning.
 
-Work / Study:
+## I'm currently ...
 
-- Neural Architecture Search
+- A master's student of Advanced Computing at King's College London, about to graduate in Jan 2022. My master's dissertation is **_Multi-Agent Cooperation in Hanabi with Policy Optimisation_** ([repo](https://github.com/patrick22414/hanabi_project)), supervised by Dr Josh Murphy.
 
-Side projects:
+- I graduated from Sun Yat-Sen University, Guangzhou, China in 2020. My bachelor's thesis is about **computer vision on a drone** ([repo](https://github.com/patrick22414/drone-projects)), supervised by Dr. D. J. Lee at Brigham Young University, Utah, US.
 
-- I'm learning [**Rust**](https://www.rust-lang.org/), but it's kind of hard :(
-- Privacy-preserving AI and Federated Learning. I believe it will be a prominent field in future AI research.
-- [**Vue**](https://vuejs.org/). I feel it's the only JavaScript-related stuff with some sanity left (yes, I predominantly code in Python).
+## I have worked on ...
 
-Side projects that have been abandoned (but I might pick them up, might):
+- **Neural architecture search** and **object detection** during my internship at Novauto Inc, Beijing.
 
-- [wows-view](https://github.com/patrick22414/wows-view) is a data-viewing website for the game World of Worships, written in Vue, hosted on Vercel
+- Open-source neural architecture search framework [aw_nas](https://github.com/walkerning/aw_nas).
 
-### I have worked on ...
+- **Object detection** on drones during my internship at Zerotech Inc, Beijing.
 
-- Text detection and information extraction on ICDAR 2019 ([codebase](https://github.com/zzzDavid/ICDAR-2019-SROIE)) (the repo is surprisingly popular, I donno why)
-- My bachelor's thesis is about computer vision on a drone ([codebase](https://github.com/patrick22414/drone-projects))
-- A computer vision library with OpenCV but it's close-source
+- **Text detection and information extraction** as part of ICDAR 2019 ([repo](https://github.com/zzzDavid/ICDAR-2019-SROIE)) (the repo is surprisingly popular, I don't know why). My partners are [Niansong Zhang](https://github.com/zzzDavid) and [Shengjie Xiu](https://github.com/Michael-Xiu).
 
-### How to reach me ...
+- A computer vision library with **OpenCV** and **C#** but it's close-source.
 
-Email: songyi.yang@kcl.ac.uk
+### Some HTML/JavaScript side projects:
 
-Telegram: @patrick22414
+- Covid-19 data visualisation ([website](https://patrick22414.github.io/coursework-sdv/), [repo](https://github.com/patrick22414/coursework-sdv)) (coursework at KCL).
+
+- wows-view ([repo](https://github.com/patrick22414/wows-view)) is a data-viewing website for the game World of Worships, written in Vue, hosted on Vercel.
+
+## How to reach me ...
+
+Email: songyi.yang@kcl.ac.uk (academic), patrick22414@outlook.com (personal).
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=patrick22414&show_icons=true&theme=ayu-mirage)
