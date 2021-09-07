@@ -36,7 +36,7 @@ My interests are in (multi-agent) **reinforcement learning and games**. I want m
 
 - **Object detection** on drones during my internship at Zerotech Inc, Beijing.
 
-- **Text detection and information extraction** as part of ICDAR 2019 ([repo](https://github.com/zzzDavid/ICDAR-2019-SROIE)) (the repo is surprisingly popular, I don't know why). My partners are [Niansong Zhang](https://github.com/zzzDavid) and [Shengjie Xiu](https://github.com/Michael-Xiu).
+- **Text detection** and **key information extraction** as part of ICDAR 2019 ([repo](https://github.com/zzzDavid/ICDAR-2019-SROIE)) (the repo is surprisingly popular, I don't know why). My partners are [Niansong Zhang](https://github.com/zzzDavid) and [Shengjie Xiu](https://github.com/Michael-Xiu).
 
 - A computer vision library with **OpenCV** and **C#** but it's close-source.
 
@@ -44,7 +44,7 @@ My interests are in (multi-agent) **reinforcement learning and games**. I want m
 
 - Covid-19 data visualisation ([website](https://patrick22414.github.io/coursework-sdv/), [repo](https://github.com/patrick22414/coursework-sdv)) (coursework at KCL).
 
-- wows-view ([repo](https://github.com/patrick22414/wows-view)) is a data-viewing website for the game World of Worships, written in Vue, hosted on Vercel.
+- wows-view ([repo](https://github.com/patrick22414/wows-view)) is a data-viewing website for the game World of Worships, using Vue and Vercel.
 
 ## How to reach me ...
 
