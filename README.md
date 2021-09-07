@@ -11,7 +11,6 @@ My interests are in (multi-agent) **reinforcement learning and games**. I want m
 ## I'm currently ...
 
 - A master's student of Advanced Computing at King's College London, about to graduate in Jan 2022. My master's dissertation is **_Multi-Agent Cooperation in Hanabi with Policy Optimisation_** ([repo](https://github.com/patrick22414/hanabi_project)), supervised by Dr Josh Murphy.
-
 - I graduated from Sun Yat-Sen University, Guangzhou, China in 2020. My bachelor's thesis is about **computer vision on a drone** ([repo](https://github.com/patrick22414/drone-projects)), supervised by Dr. D. J. Lee at Brigham Young University, Utah, US.
 
 ## I have worked on ...
