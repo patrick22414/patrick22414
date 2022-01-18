@@ -2,24 +2,31 @@
 
 <!-- I now have a [personal blog site](https://patrick22414.substack.com/), currently in **BETA** cuz I'm too lazy. -->
 
-## I'm looking for a PhD position in Reinforcement Learning!
+<!-- ## I'm looking for a PhD position in Reinforcement Learning!
 
 (Autumn 2022. UK-based preferred but not necessary)
 
-My interests are in (multi-agent) **reinforcement learning and games**. I want my PhD subject to be a continuation of my MSc dissertation (see below), as I have really enjoyed working on reinforcement learning.
+My interests are in (multi-agent) **reinforcement learning and games**. I want my PhD subject to be a continuation of my MSc dissertation (see below), as I have really enjoyed working on reinforcement learning. -->
 
 ## I'm currently ...
 
-- A master's student of Advanced Computing at King's College London, about to graduate in Jan 2022. My master's dissertation is **_Multi-Agent Cooperation in Hanabi with Policy Optimisation_** ([repo](https://github.com/patrick22414/hanabi_project)), supervised by Dr Josh Murphy.
+- A MSc student studying Advanced Computing at King's College London, about to graduate in Jan 2022. My master's dissertation is **_Multi-Agent Cooperation in Hanabi with Policy Optimisation_** ([repo](https://github.com/patrick22414/hanabi_project)), supervised by Dr Josh Murphy.
 - I graduated from Sun Yat-Sen University, Guangzhou, China in 2020. My bachelor's thesis is about **computer vision on a drone** ([repo](https://github.com/patrick22414/drone-projects)), supervised by Dr. D. J. Lee at Brigham Young University, Utah, US.
 
 ## I have worked on ...
 
-- **Neural architecture search** and **object detection** during my internship at Novauto Inc, Beijing.
+- **Reinforcement Learning**
+- **Neural architecture search** and **object detection** during my internship at Novauto Tech, Beijing.
 - Open-source neural architecture search framework `aw_nas` ([repo](https://github.com/walkerning/aw_nas)).
-- **Object detection** on drones during my internship at Zerotech Inc, Beijing.
-- **Text detection** and **key information extraction** as part of ICDAR 2019 ([repo](https://github.com/zzzDavid/ICDAR-2019-SROIE)) (the repo is surprisingly popular, I don't know why). My partners are [Niansong Zhang](https://github.com/zzzDavid) and [Shengjie Xiu](https://github.com/Michael-Xiu).
+- **Object detection** on drones during my internship at Zerotech Drones, Beijing.
+- **Text detection** and **key information extraction** as part of ICDAR 2019 ([repo](https://github.com/zzzDavid/ICDAR-2019-SROIE)) (the repo is surprisingly popular, I don't know why), with my friends [Niansong Zhang](https://github.com/zzzDavid) and [Shengjie Xiu](https://github.com/Michael-Xiu).
 - A computer vision library with **OpenCV** and **C#** but it's close-source.
+
+## I want to learn ...
+
+- More about reinforcement learning!
+- New programming languages, Go and Rust!
+- New languages! Here is my plan: Mandarin --> English -(I'm here)-> Japanese --> Spanish.
 
 ### Some HTML/JavaScript side projects:
 
