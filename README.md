@@ -1,5 +1,7 @@
 # Hi, name's Patrick / Songyi 🦩
 
+[Curriculum Vitae](https://docs.google.com/document/d/1dt8Ir2WAWBFJPPl21puDerN97n3vCTQQqGEsED2BBFA/edit?usp=sharing) (Google Docs)
+
 <!-- I now have a [personal blog site](https://patrick22414.substack.com/), currently in **BETA** cuz I'm too lazy. -->
 
 <!-- ## I'm looking for a PhD position in Reinforcement Learning!
