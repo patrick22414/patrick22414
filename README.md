@@ -37,6 +37,6 @@ My interests are in (multi-agent) **reinforcement learning and games**. I want m
 
 ## How to reach me ...
 
-Email: songyi.yang@kcl.ac.uk (academic), patrick22414@outlook.com (personal).
+Email: patrick22414@outlook.com (personal), songyi.yang@kcl.ac.uk (academic).
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=patrick22414&show_icons=true&theme=ayu-mirage)
