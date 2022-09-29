@@ -1,6 +1,6 @@
 # Hi, name's Songyi / Patrick 🦩
 
-I am a new graduate at [AWS Professional Services](https://aws.amazon.com/professional-services/) (ProServe) who just joined in Sep 2022. I am learning to become a consultant at AWS.
+I am a new graduate at [AWS Professional Services](https://aws.amazon.com/professional-services/) (ProServe) from Sep 2022. I am learning to become a consultant at AWS.
 
 Before this, I was a MSc student in Advanced Computing at King's College London until Jan 2022. My master's final project is **_Multi-Agent Cooperation in Hanabi with Policy Optimisation_** ([repo](https://github.com/patrick22414/hanabi_project)), supervised by Dr Josh Murphy.
 
