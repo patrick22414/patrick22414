@@ -32,11 +32,11 @@ And before that, I graduated from Sun Yat-Sen University (Guangzhou, China) in 2
 
 ## Trivia
 
-How to pronounce "Songyi"?
-- Like "song-EE". "Patrick" is also welcomed.
+> How to pronounce "Songyi"?
+> - Like "song-EE". "Patrick" is also welcomed.
 
-Flamingo?
-- Yes, flamingo.
+> Flamingo?
+> - Yes, flamingo.
 
 <!-- Email: patrick22414@outlook.com (personal). -->
 
