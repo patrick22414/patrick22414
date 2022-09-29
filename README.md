@@ -33,7 +33,7 @@ And before that, I graduated from Sun Yat-Sen University (Guangzhou, China) in 2
 ## Trivia
 
 How to pronounce "Songyi"?
-- Like "song-EE". "Patrick" is also welcome.
+- Like "song-EE". In Chinese/Pinyin: "嵩毅/Sōng-Yì". "Patrick" is also welcome.
 
 Flamingo?
 - Yes, flamingo.
