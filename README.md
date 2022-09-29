@@ -12,8 +12,8 @@ And before that, I graduated from Sun Yat-Sen University (Guangzhou, China) in 2
 
 ## I have worked on ...
 
-- **AWS** cloud
-- **Reinforcement Learning**
+- **AWS** cloud.
+- **Reinforcement Learning**.
 - **Neural Architecture Search** and **Object Detection**, during my internship at Novauto Tech, Beijing. Our main project is an open-source NAS framework `aw_nas` ([repo](https://github.com/walkerning/aw_nas)).
 - **Object Detection** on drones during my internship at Zerotech Drones, Beijing.
 - **Text Detection** and **Key Information Extraction** as part of ICDAR 2019 ([repo](https://github.com/zzzDavid/ICDAR-2019-SROIE)), with my friends [@Niansong Zhang](https://github.com/zzzDavid) and [@Shengjie Xiu](https://github.com/Michael-Xiu).
@@ -22,8 +22,8 @@ And before that, I graduated from Sun Yat-Sen University (Guangzhou, China) in 2
 ## I want to learn ...
 
 - More about reinforcement learning!
-- New programming languages, Go and Rust!
-- New languages! Here is my plan: Mandarin --> English -(I'm here)-> Japanese --> Spanish.
+- New programming languages, **Go** and **Rust**!
+- New languages! My first language is Mandarin and I'm currently studying Japanese.
 
 ## Some HTML/JavaScript side projects:
 
@@ -33,7 +33,7 @@ And before that, I graduated from Sun Yat-Sen University (Guangzhou, China) in 2
 ## Trivia
 
 How to pronounce "Songyi"?
-- Like "song-EE".
+- Like "song-EE". "Patrick" is also welcomed.
 
 Flamingo?
 - Yes, flamingo.
