@@ -6,7 +6,7 @@ Before this, I was a MSc student in Advanced Computing at King's College London 
 
 And before that, I graduated from Sun Yat-Sen University (Guangzhou, China) in 2020. My bachelor's final project is **_Vision-based Autonomous Aerial Object Capturing and Chasing with UAVs_** ([repo](https://github.com/patrick22414/drone-projects)), jointly supervised by Dr D. J. Lee from Brigham Young University (Utah, US), and Dr Dong Zhang from SYSU.
 
-[Resume](https://docs.google.com/document/d/1liR__ewuFs8mvt6TaHsixV49YssTtwSNniadmpQwqVU/edit?usp=sharing) (last updated Jan 2022)
+[Resume](https://docs.google.com/document/d/1liR__ewuFs8mvt6TaHsixV49YssTtwSNniadmpQwqVU/edit?usp=sharing) (last updated Jan 2022).
 
 <!-- I now have a [personal blog site](https://patrick22414.substack.com/), currently in **BETA** cuz I'm too lazy. -->
 
@@ -25,9 +25,9 @@ And before that, I graduated from Sun Yat-Sen University (Guangzhou, China) in 2
 - New programming languages, Go and Rust!
 - New languages! Here is my plan: Mandarin --> English -(I'm here)-> Japanese --> Spanish.
 
-### Some HTML/JavaScript side projects:
+## Some HTML/JavaScript side projects:
 
-- Covid-19 data visualisation ([demo](https://patrick22414.github.io/coursework-sdv/), [repo](https://github.com/patrick22414/coursework-sdv)) (**D3.js** coursework at KCL).
+- Covid-19 data visualisation ([demo](https://patrick22414.github.io/coursework-sdv/), [repo](https://github.com/patrick22414/coursework-sdv)) with **D3.js**.
 - wows-view ([repo](https://github.com/patrick22414/wows-view)) is a data-viewing website for the game World of Worships, using **Vue** and **Vercel**.
 
 ## Trivia
