@@ -6,7 +6,7 @@ Before this, I was a MSc student in Advanced Computing at King's College London 
 
 And before that, I graduated from Sun Yat-Sen University (Guangzhou, China) in 2020. My bachelor's final project is **_Vision-based Autonomous Aerial Object Capturing and Chasing with UAVs_** ([repo](https://github.com/patrick22414/drone-projects)), jointly supervised by Dr D. J. Lee from Brigham Young University (Utah, US), and Dr Dong Zhang from SYSU.
 
-I currently reside in London, UK, very close to the prime meridian.
+I currently reside in London, UK, near the prime meridian.
 
 ## I have worked on ...
 
