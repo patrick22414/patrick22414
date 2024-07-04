@@ -10,28 +10,29 @@ And before that, I graduated from Sun Yat-Sen University (Guangzhou, China) in 2
 
 > (*in rough reverse chronological order*)
 
-- **AWS** cloud, especially MLOps.
+- AWS cloud, especially MLOps.
 - Graph Neural Network.
 - Time Series Forecasting (wouldn't recommand).
 - Grafana and SQL.
 - Talking to people, a.k.a. consulting.
 - Optimisation for operations research, specifically [Google OR-Tools](https://developers.google.com/optimization).
-- **Reinforcement Learning**.
-- **Neural Architecture Search** and **Object Detection**, during my internship at Novauto Tech, Beijing. Our main project is an open-source NAS framework `aw_nas` ([repo](https://github.com/walkerning/aw_nas)).
-- **Object Detection** on drones during my internship at Zerotech Drones, Beijing.
-- **Text Detection** and **Key Information Extraction** as part of ICDAR 2019 ([repo](https://github.com/zzzDavid/ICDAR-2019-SROIE)), with my friends [@Niansong Zhang](https://github.com/zzzDavid) and [@Shengjie Xiu](https://github.com/Michael-Xiu).
-- A computer vision library with **OpenCV** and **C#**.
+- Reinforcement Learning.
+- Neural Architecture Search and Object Detection. Our main project is an open-source NAS framework [aw_nas](https://github.com/walkerning/aw_nas).
+- Text Detection and Key Information Extraction as part of ICDAR 2019 ([repo](https://github.com/zzzDavid/ICDAR-2019-SROIE)), with my friends [@Niansong Zhang](https://github.com/zzzDavid) and [@Shengjie Xiu](https://github.com/Michael-Xiu).
+- Computer Vision with OpenCV (okay) and C# (weird).
 
 ## I want to learn ...
 
-- More about reinforcement learning!
-- New programming languages, **Go** and **Rust**!
-- New languages! My native language is Mandarin and I'm currently studying French.
+- More about reinforcement learning.
+- New programming languages. Go is a new favourite.
+- New languages. My native language is Mandarin. I'm currently studying French, also interested in toki pona.
+- Archery.
 
-## Some HTML/JavaScript side projects:
+## Some side projects:
 
-- Covid-19 data visualisation ([demo](https://patrick22414.github.io/coursework-sdv/), [repo](https://github.com/patrick22414/coursework-sdv)) with **D3.js**.
-- wows-view ([repo](https://github.com/patrick22414/wows-view)) is a data-viewing website for the game World of Worships, using **Vue** and **Vercel**.
+- Go graphics stuff, like the [Game of Life](https://github.com/patrick22414/life-goes) and [L-system](https://github.com/patrick22414/rewrite).
+- Covid-19 data visualisation ([demo](https://patrick22414.github.io/coursework-sdv/), [repo](https://github.com/patrick22414/coursework-sdv)) with D3.js.
+- Some Vue or React projects.
 
 ## Trivia
 
