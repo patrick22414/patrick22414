@@ -8,9 +8,12 @@ And before that, I graduated from Sun Yat-Sen University (Guangzhou, China) in 2
 
 ## I have worked on ...
 
-> (*in roughly reverse chronological order*)
+> (*in rough reverse chronological order*)
 
 - **AWS** cloud, especially MLOps.
+- Graph Neural Network.
+- Time Series Forecasting (wouldn't recommand).
+- Grafana and SQL.
 - Talking to people, a.k.a. consulting.
 - Optimisation for operations research, specifically [Google OR-Tools](https://developers.google.com/optimization).
 - **Reinforcement Learning**.
